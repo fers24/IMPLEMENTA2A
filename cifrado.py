@@ -11,5 +11,3 @@ for c in texto:
     else:
         cifrad+=c
 print("Texto cifrado: ", cifrad)
-print("Fernanda")
-                    
